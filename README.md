@@ -1,2 +1,1 @@
-*Emphasize* _emphasize_
-**Strong** __Strong__
+First time update from Github sevice.
